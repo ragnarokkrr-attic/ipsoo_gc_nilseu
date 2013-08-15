@@ -1,0 +1,13 @@
+h1. IPSOO - Exercício de Gerência de Configuração
+
+h2. Enunciado
+
+4) Implemente a classe Tênis (o jogo ? ). Para criar um jogo de tenis percisamos ter no mínimo 2 jogadores e no máximo 4 jogadores. Cada jogo de tenis, além de ter os jogadores, também precisa ter um placar. Modele os seus jogadores como classes Pessoa a qual tenha nome e idade, use-a para intanciar um jogo de tênis. Implemente os métodos necessários para imprimir o placar do jogo, mudar o placar, definir o vencedor e perdedor. Implemente uma classe main responsavel por isntanciar testar seu objeto.
+
+
+h2. Lista de Tarefas
+
+
+h2. Aluno
+
+Nilseu Padilha
