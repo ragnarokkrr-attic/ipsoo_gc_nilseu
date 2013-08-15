@@ -2,10 +2,21 @@ h1. IPSOO - Exercício de Gerência de Configuração
 
 h2. Enunciado
 
-4) Implemente a classe Tênis (o jogo ? ). Para criar um jogo de tenis percisamos ter no mínimo 2 jogadores e no máximo 4 jogadores. Cada jogo de tenis, além de ter os jogadores, também precisa ter um placar. Modele os seus jogadores como classes Pessoa a qual tenha nome e idade, use-a para intanciar um jogo de tênis. Implemente os métodos necessários para imprimir o placar do jogo, mudar o placar, definir o vencedor e perdedor. Implemente uma classe main responsavel por isntanciar testar seu objeto.
+4) Implemente a classe Tênis (o jogo ? ). Para criar um jogo de tenis percisamos ter no mínimo 2 jogadores e no máximo 4 jogadores. Cada jogo de tenis, além de ter os jogadores, também precisa ter um placar. Modele os seus jogadores como classes Pessoa a qual tenha nome e idade, use-a para intanciar um jogo de tênis. Implemente os métodos necessários para imprimir o placar do jogo, mudar o placar, definir o vencedor e perdedor. Implemente uma classe de teste do JUnit responsavel por testar seu objeto.
 
 
 h2. Lista de Tarefas
+
+* *T001* - Criação do Ambiente
+* *T002* - Criação da Lista de Tarefas
+* *T003* - Implementar Classe Pessoa e atributos (e o Teste correspondente)
+* *T004* - Implementar Classe Tenis e atributos (e o Teste correspondente)
+* *T005* - Implementar impressão Placar do Jogo
+* *T006* - Implementar mudança de placar do jogo
+* *T007* - Implementar definição do vencedor
+
+
+
 
 
 h2. Aluno
