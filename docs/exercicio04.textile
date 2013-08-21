@@ -16,9 +16,6 @@ h2. Lista de Tarefas
 * *T007* - Implementar definição do vencedor
 
 
-
-
-
 h2. Aluno
 
 Nilseu Padilha
