@@ -35,4 +35,19 @@ public class TenisTest {
 		assertTrue("Deveria ser Duplas"
 				,isDuplaDoObjeto==true);
 	}
+
+	@Test
+	public void testMostraPlacar(){
+		//1 - Atribuir valores
+		Pessoa j1 = new Pessoa("Ze",13);
+		Pessoa j2 = new Pessoa("Maria",14);
+		Tenis tenis = new Tenis(j1, j2);
+		
+		//2 - acionar metodo
+		String placarDoObjeto = tenis.getPlacar();
+		
+		//3 - avaliar resultados
+		assertTrue("O placar nao esta correto!",
+			"00 x 00".equals(placarDoObjeto));
+	}
 }

@@ -31,7 +31,11 @@ public class Tenis {
 		return this.dupla;
 	}
 	
-	
+	public String getPlacar(){
+		return String.format("%02d x %02d"
+			, this.pontuacaoLado1
+			, this.pontuacaoLado2);
+	}
 	
 	
 }
