@@ -31,7 +31,7 @@ public class TenisTest {
 		Tenis tenis = new Tenis(j1, j2, j3, j4);
 		boolean isDuplaDoObjeto =
 			tenis.isDupla(); 
-		//3 - Avaliar resultados
+		//3 - Avaliar resultados - forcada
 		assertTrue("Deveria ser Duplas"
 				,isDuplaDoObjeto==true);
 	}
